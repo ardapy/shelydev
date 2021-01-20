@@ -33,5 +33,5 @@
 
 <br>
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Anlık oynatılan" width="350" />](https://open.spotify.com/user/2v2ypbjbt8hh1jzs7dczkw8nr)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Anlık oynatılan" width="350" />](https://open.spotify.com/user/gx5htpt0emzi893v6uhl5cnqt)
 
